@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ca50f9d1-b623-4afa-8b01-27d3086535b2" name="Default" comment="" />
+    <list default="true" id="ca50f9d1-b623-4afa-8b01-27d3086535b2" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/../Client/Library/PackageCache/com.unity.collab-proxy@1.15.12/.signature" beforeDir="false" afterPath="$PROJECT_DIR$/../Client/Library/PackageCache/com.unity.collab-proxy@1.15.12/.signature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Client/Library/PackageManager/ProjectCache" beforeDir="false" afterPath="$PROJECT_DIR$/../Client/Library/PackageManager/ProjectCache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Client/Library/PackageManager/ProjectCache.md5" beforeDir="false" afterPath="$PROJECT_DIR$/../Client/Library/PackageManager/ProjectCache.md5" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
